@@ -12,7 +12,8 @@
 
 
 
-</p>This repository contains the python scripts used for implementing, train and evaluate the object detection model in this MSc. However, this repository does not include the dataset and files required for the different scripts. These dataset and files can be shared under request. 
+</p>
+This repository contains the Python scripts used to implement, train, and evaluate the object detection model developed in this MSc. However, the repository does not include the datasets or additional files required for the different scripts. These datasets and files can be shared upon request.
 </p>
 
 ### Introduction
@@ -26,11 +27,14 @@
 ### Setup
 
 
-</p> All scripts were run in Google Colab. 
+</p> All scripts were executed in Google Colab.
+</p>
+
+</p> Each script specifies the required packages and libraries, as well as the steps followed for implementation.
 </p>
 
 
-</p> Each script indicates the packages and libraries required within the script as well as the steps followed.  
+
 
 
 
