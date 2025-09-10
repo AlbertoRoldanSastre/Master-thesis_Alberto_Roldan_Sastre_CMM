@@ -1,8 +1,7 @@
 # Master-thesis_Alberto_Roldan_Sastre_CMM
 
 
-# The fjords of the ringed seal: 
-<img width="1960" height="123" alt="image" src="https://github.com/user-attachments/assets/b9bbd2dc-4769-4130-8c09-4dcb920c3222" />
+# The fjords of the ringed seal: <img width="1960" height="123" alt="image" src="https://github.com/user-attachments/assets/b9bbd2dc-4769-4130-8c09-4dcb920c3222" />
 
 
 </p>
