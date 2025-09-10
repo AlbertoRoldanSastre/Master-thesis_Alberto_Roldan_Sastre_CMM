@@ -1,7 +1,7 @@
 # Master-thesis_Alberto_Roldan_Sastre_CMM
 
 
-# The fjords of the ringed seal: assessing ringed seal´s status in western Svalbard through machine learning
+# The fjords of the ringed seal: assessing ringed seals status in western Svalbard through machine learning
 
 </p>
   </p>                 				<img width="797" height="626" alt="3" src="https://github.com/user-attachments/assets/ca788cd9-2ad6-40fc-adb3-2eba9fd0511a" />
